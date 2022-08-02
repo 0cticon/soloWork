@@ -1,0 +1,2 @@
+# soloWork
+individual project
